@@ -11,10 +11,10 @@ consumerSecret = os.environ["consumer_secret"]
 accessKey = os.environ["access_token_key"]
 accessSecret = os.environ["access_token_secret"]
 
-print(consumerKey)
-print(consumerSecret)
-print(accessKey)
-print(accessSecret)
+#print(consumerKey)
+#print(consumerSecret)
+#print(accessKey)
+#print(accessSecret)
 
 
 apiV1 = TwitterAPI(
